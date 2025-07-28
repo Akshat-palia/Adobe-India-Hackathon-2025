@@ -1,4 +1,5 @@
-![Banner](./adobehackathon_banner.png)
+![Adobe Hackathon Banner](assets/adobehackathon_banner.png)
+
 
 
 
