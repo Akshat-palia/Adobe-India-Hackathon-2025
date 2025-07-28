@@ -1,3 +1,8 @@
+![Banner](./adobehackathon_banner.png)
+
+
+
+
 # Adobe India Hackathon 2025 🧠🚀
 
 This repository contains solutions for **Adobe India Hackathon 2025**, developed by [Akshat Palia](https://github.com/Akshat-palia). The project is divided into two major challenges, each focusing on document intelligence, information extraction, and persona-driven summarization.
