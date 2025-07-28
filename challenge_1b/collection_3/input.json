@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "kpi_financials"
+  },
+  "documents": [
+    { "filename": "doc1.pdf", "title": "Q1 Financial Report" },
+    { "filename": "doc2.pdf", "title": "Q2 Financial Report" },
+    { "filename": "doc3.pdf", "title": "Q3 Financial Report" }
+  ],
+  "persona": {
+    "role": "Business Analyst"
+  },
+  "job_to_be_done": {
+    "task": "Identify key performance indicators from quarterly financial reports"
+  }
+}

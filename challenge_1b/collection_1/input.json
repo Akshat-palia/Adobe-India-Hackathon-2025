@@ -1,0 +1,18 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "academic_research"
+  },
+  "documents": [
+    {"filename": "gnn_paper1.pdf", "title": "Graph Neural Networks in Drug Discovery"},
+    {"filename": "gnn_paper2.pdf", "title": "Advances in GNN Methodologies"},
+    {"filename": "gnn_paper3.pdf", "title": "Performance Benchmarks for GNNs"},
+    {"filename": "gnn_paper4.pdf", "title": "Datasets for Molecular GNNs"}
+  ],
+  "persona": {
+    "role": "PhD Researcher in Computational Biology"
+  },
+  "job_to_be_done": {
+    "task": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "complex_layout",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Submission Template for ACM Papers",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "First Author's Name*",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Second Author's Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Third Author's Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "a This is example of table footnote.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6 HISTORY DATES",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "revised date is optional):",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    }
+  ]
+}

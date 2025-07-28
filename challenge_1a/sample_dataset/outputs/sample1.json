@@ -1,0 +1,105 @@
+{
+  "title": "sample1",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Sample Academic PDF Document",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "This document is a sample academic paper with hierarchical headings. It demonstrates the structure of an",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "academic report.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Methodology",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Data Collection",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Data was collected from a range of public datasets and through surveys conducted among students.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Methods",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The collected data was analyzed using Python and R. Visualization was performed using Matplotlib and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Seaborn.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Results",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The results show a clear correlation between study hours and academic performance. Visualizations",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "reinforce the findings.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Discussion",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The implications of the findings are significant. Further research could investigate long-term academic",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "outcomes.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Conclusion",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "This paper provided a sample structure and dummy content for academic-style documents with hierarchical",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Sample Academic PDF Document",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "headings.",
+      "page": 2
+    }
+  ]
+}

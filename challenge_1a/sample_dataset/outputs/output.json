@@ -1,0 +1,30 @@
+{
+    "title": "Document Outline",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "Introduction",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Methodology",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Results",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Discussion",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Conclusion",
+            "page": 1
+        }
+    ]
+}
