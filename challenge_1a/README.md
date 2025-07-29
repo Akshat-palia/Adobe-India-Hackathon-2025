@@ -43,7 +43,7 @@ challenge_1a_final/
 docker build -t pdf-processor .
 
 
-### 2. Run the processor:
+ 2. Run the processor:
 
 docker run --rm \
   -v "$(pwd)/sample_dataset/pdfs:/app/sample_dataset/pdfs:ro" \
